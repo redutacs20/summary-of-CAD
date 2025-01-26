@@ -36,3 +36,18 @@
 
     ![https://web.archive.org/web/20221102235035/https://d-engineer.com/img/se0057.gif](https://web.archive.org/web/20221102235035/https://d-engineer.com/img/se0057.gif)
 
+
+----
+
+### 未整理
+
+ものづくり太郎
+
+ロボット需要爆発！？安川もファナックも気が付いていない！<br>
+https://www.youtube.com/watch?v=dL7xIc7n0eI
+
+AIは匠の技術を超越するのか？ （切削)<br>
+https://www.youtube.com/watch?v=s9mDJeyBLwA 
+
+後５年で老人は侮蔑の対象になる。 <br>
+https://www.youtube.com/watch?v=byiw9ElJmfA
