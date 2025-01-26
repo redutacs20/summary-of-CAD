@@ -7,10 +7,20 @@
 
 [https://www.noboyu.com/2016-08-24-204250/](https://www.noboyu.com/2016-08-24-204250/)
 
+
+### 薄い本
+
+[http://old.es.u-tokai.ac.jp/es_hp2013/drawing/pdf/2017text.pdf](http://old.es.u-tokai.ac.jp/es_hp2013/drawing/pdf/2017text.pdf)
+
 ### 円弧と円弧をつなぐ
 
 工業702 機械製図 高校教科書 工業科用 実教出版 **23ページ参照**<br>
 [https://www.amazon.co.jp/dp/4407204370](https://www.amazon.co.jp/dp/4407204370)
+
+###
+
+
+
 
 ### 提出前チェックリスト
 
