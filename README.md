@@ -23,7 +23,7 @@
 
 [https://d-engineer.com/seizu/neji.html](https://d-engineer.com/seizu/neji.html)
 
-
+[https://www.youtube.com/watch?v=wpPAqQncpAM&t=862s](https://www.youtube.com/watch?v=wpPAqQncpAM&t=862s)
 
 
 ### 提出前チェックリスト
