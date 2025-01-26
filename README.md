@@ -8,7 +8,7 @@
 [https://www.noboyu.com/2016-08-24-204250/](https://www.noboyu.com/2016-08-24-204250/)
 
 
-### 薄い本
+### 六角ボルト・六角ナットの略画法　or 薄い本
 
 [http://old.es.u-tokai.ac.jp/es_hp2013/drawing/pdf/2017text.pdf](http://old.es.u-tokai.ac.jp/es_hp2013/drawing/pdf/2017text.pdf)
 
