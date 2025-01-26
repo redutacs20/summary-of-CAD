@@ -29,6 +29,15 @@
 
 ![https://web.archive.org/web/20250126122320/https://www.nmri.go.jp/archives/eng/khirata/mechdesign/ch09/fig9-3.jpg](https://web.archive.org/web/20250126122320/https://www.nmri.go.jp/archives/eng/khirata/mechdesign/ch09/fig9-3.jpg)
 
+### 埋め込みボルト
+
+
+
+https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11207575896
+
+頭の部分
+
+https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10245045205
 
 ### 提出前チェックリスト
 
