@@ -23,6 +23,8 @@
 
 [https://d-engineer.com/seizu/neji.html](https://d-engineer.com/seizu/neji.html)
 
+![n.png](n.png)
+
 [https://www.youtube.com/watch?v=wpPAqQncpAM&t=862s](https://www.youtube.com/watch?v=wpPAqQncpAM&t=862s)
 
 
