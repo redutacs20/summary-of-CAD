@@ -27,6 +27,8 @@
 
 [https://www.youtube.com/watch?v=wpPAqQncpAM&t=862s](https://www.youtube.com/watch?v=wpPAqQncpAM&t=862s)
 
+![https://web.archive.org/web/20250126122320/https://www.nmri.go.jp/archives/eng/khirata/mechdesign/ch09/fig9-3.jpg](https://web.archive.org/web/20250126122320/https://www.nmri.go.jp/archives/eng/khirata/mechdesign/ch09/fig9-3.jpg)
+
 
 ### 提出前チェックリスト
 
@@ -44,6 +46,8 @@
 
 * [ ] 寸法補助記号 [https://d-engineer.com/seizu/sunpouhojyo.html](https://d-engineer.com/seizu/sunpouhojyo.html)
 * [ ] ねじ　[https://d-engineer.com/seizu/neji.html](https://d-engineer.com/seizu/neji.html)
+
+
 
 
 ### NG
