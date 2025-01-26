@@ -17,7 +17,11 @@
 工業702 機械製図 高校教科書 工業科用 実教出版 **23ページ参照**<br>
 [https://www.amazon.co.jp/dp/4407204370](https://www.amazon.co.jp/dp/4407204370)
 
-###
+### ねじ
+
+![https://web.archive.org/web/20240609084138/https://d-engineer.com/img/se0073.gif](https://web.archive.org/web/20240609084138/https://d-engineer.com/img/se0073.gif)
+
+
 
 
 
