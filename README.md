@@ -39,6 +39,10 @@ https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11207575896
 
 https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10245045205
 
+
+
+![n2.png](n2.png)
+
 ### 提出前チェックリスト
 
 * [ ] テキストや文字体
