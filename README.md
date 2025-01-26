@@ -21,7 +21,7 @@
 
 ![https://web.archive.org/web/20240609084138/https://d-engineer.com/img/se0073.gif](https://web.archive.org/web/20240609084138/https://d-engineer.com/img/se0073.gif)
 
-
+[https://d-engineer.com/seizu/neji.html](https://d-engineer.com/seizu/neji.html)
 
 
 
