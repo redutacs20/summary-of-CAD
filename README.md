@@ -50,6 +50,17 @@ https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10245045205
 
 [https://www.youtube.com/watch?v=SSgp58sfMG8](https://www.youtube.com/watch?v=SSgp58sfMG8)
 
+
+https://engineer-education.com/mechanical-drawing-s01_surface-property/
+
+
+### 線をn分割
+
+https://www.autodesk.com/jp/support/technical/article/caas/sfdcarticles/sfdcarticles/kA93g000000XfRx.html
+
+
+
+
 ### 参考動画
 
 [https://www.youtube.com/@cad.channel](https://www.youtube.com/@cad.channel)
