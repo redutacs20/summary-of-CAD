@@ -49,6 +49,11 @@ https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10245045205
 
 https://www.youtube.com/watch?v=r5T36hIuILg
 
+#### ハッチング　周囲
+
+![haching_blur.png](haching_blur.png)
+
+
 ### 幾何公差入力
 
 https://www.youtube.com/watch?v=IyGGcIIqXZg
