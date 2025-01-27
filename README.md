@@ -43,13 +43,15 @@ https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11207575896
 https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10245045205
 
 
-### ローレット
+### ローレット入力
 
 ![roulette.png](roulette.png)
 
 https://www.youtube.com/watch?v=r5T36hIuILg
 
+### 幾何公差入力
 
+https://www.youtube.com/watch?v=IyGGcIIqXZg
 
 ### 表面性状
 
