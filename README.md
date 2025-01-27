@@ -43,10 +43,17 @@ https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11207575896
 https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10245045205
 
 
+### ローレット
+
+![roulette.png](roulette.png)
+
+https://www.youtube.com/watch?v=r5T36hIuILg
+
+
 
 ### 表面性状
 
-![image.png](image.png)
+![ra.png](ra.png)
 
 [https://www.youtube.com/watch?v=SSgp58sfMG8](https://www.youtube.com/watch?v=SSgp58sfMG8)
 
