@@ -33,12 +33,26 @@
 
 
 
+
+
+
 https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11207575896
 
 頭の部分
 
 https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10245045205
 
+
+
+### 表面性状
+
+![image.png](image.png)
+
+[https://www.youtube.com/watch?v=SSgp58sfMG8](https://www.youtube.com/watch?v=SSgp58sfMG8)
+
+### 参考動画
+
+[https://www.youtube.com/@cad.channel](https://www.youtube.com/@cad.channel)
 
 
 ![n2.png](n2.png)
