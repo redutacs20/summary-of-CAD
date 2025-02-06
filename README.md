@@ -148,3 +148,6 @@ https://www.isc.meiji.ac.jp/~re00111/contents/40_SlideOfAssemblingDrawing.pdf
 
 ### ブロックゲージ
 https://www.youtube.com/watch?v=M2ujv8--nGM
+
+### ソリッドワークス　スパナ
+https://www.youtube.com/watch?v=gGdjI5nq8AQ&t=30s
