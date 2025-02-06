@@ -143,3 +143,8 @@ http://leo.nit.ac.jp/~mhiguchi/seizu-02.pdf
 
 ###  機械設計・製図 ２
 https://www.isc.meiji.ac.jp/~re00111/contents/40_SlideOfAssemblingDrawing.pdf
+
+
+
+### ブロックゲージ
+https://www.youtube.com/watch?v=M2ujv8--nGM
