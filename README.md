@@ -137,3 +137,7 @@ https://www.isc.meiji.ac.jp/~re00111/contents/27_SlideOfPartsDrawing2023_r1.pdf
 http://www.ecs.shimane-u.ac.jp/~shutingli/MD2.pdf
 
 
+### 製図　基本
+
+http://leo.nit.ac.jp/~mhiguchi/seizu-02.pdf
+
