@@ -125,3 +125,15 @@ https://www.youtube.com/watch?v=s9mDJeyBLwA
 
 後５年で老人は侮蔑の対象になる。 <br>
 https://www.youtube.com/watch?v=byiw9ElJmfA
+
+### 表面性状
+
+https://d-engineer.com/seizu/arasa.html
+
+http://www.ecs.shimane-u.ac.jp/~shutingli/MD8.pdf
+https://www.gifu-nct.ac.jp/elcon/labo/t-kitagawa/class/drawing/20101012_17.pdf
+https://www.rs.noda.tus.ac.jp/nog/documents/sekkei1/s1-4.pdf
+https://www.isc.meiji.ac.jp/~re00111/contents/27_SlideOfPartsDrawing2023_r1.pdf
+http://www.ecs.shimane-u.ac.jp/~shutingli/MD2.pdf
+
+
